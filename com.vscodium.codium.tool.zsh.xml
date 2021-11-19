@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="runtime">
+  <id>com.vscodium.codium.tool.zsh</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0 and LGPL-2.0 and BSD-2-Clause and ISC</project_license>
+  <name>zsh</name>
+  <summary>Zsh is a UNIX command interpreter which of the standard shells most resembles the Korn shell.</summary>
+  <url type="homepage">https://www.zsh.org/</url>
+  <releases>
+    <release version="5.2" date="2021-11-19"/>
+
+  </releases>
+</component>
